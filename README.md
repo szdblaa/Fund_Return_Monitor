@@ -17,9 +17,9 @@ fund_monitor.sh:每天定时跑的脚本
 
 fund_spider:爬虫模块
 
-fund_generator:文件生成模块：一个基金一个txt文件
+fund_generator:文件生成模块
 
-fund_calculator:基金计算模块：计算基金总额=份额*净值、﻿计算xirr收益率
+fund_calculator:收益率计算模块
 
 fund_notice:阈值及告警内容设置模块
 
